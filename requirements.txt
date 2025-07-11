@@ -1,1 +1,6 @@
-pip install openai Flask SpeechRecognition gtts playsound pyaudio
+openai
+Flask
+SpeechRecognition
+gtts
+playsound
+pyaudio
